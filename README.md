@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **swapnadevi804@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swapna-devi-138a761a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swapna-devi-138a761a5" height="30" width="40" /></a>
+  <img align="right" alt="Coding" width="400" src="https://github.com/Swapna804/Swapna.github.io/blob/master/images/20200713_162303_0000.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
